@@ -20,18 +20,18 @@ $('.owl-carousel').owlCarousel({
         }
     }
     });
-$(window).scroll(function(){
+// $(window).scroll(function(){
 
-    if(this.scrollY >27){
-        $(".navbar").addClass("sticky");
-        $("#logo-addr").removeClass("crismon");
-    }else{
-        $(".navbar").removeClass("sticky");
-        $("#logo-addr").addClass("crismon");
-    }
+//     if(this.scrollY >27){
+//         $(".navbar").addClass("sticky");
+//         $("#logo-addr").removeClass("crismon");
+//     }else{
+//         $(".navbar").removeClass("sticky");
+//         $("#logo-addr").addClass("crismon");
+//     }
 
 
-});
+// });
 function fun(){
     if($(window).width()>930){
         $("#menu-bars").addClass("hide");
