@@ -102,7 +102,7 @@ header{
     background:url("../images/my-dp.jpg");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size:300px 600px;
     width: 40%;
     clip-path: circle();
 }
