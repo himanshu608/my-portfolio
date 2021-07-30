@@ -706,6 +706,8 @@ label{
     height:100px;
 }
 #footer h2{
+    font-family: 'Merienda', cursive;
+    text-transform: uppercase;
     text-align:center;
     padding:20px;
     color:white;
